@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Hi there, I'm Saikiran 👋
 
 ### Aspiring Data Analyst | Python | SQL | Excel | Power BI
